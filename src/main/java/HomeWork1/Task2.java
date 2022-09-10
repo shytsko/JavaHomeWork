@@ -5,7 +5,7 @@ package HomeWork1;
 
 public class Task2 {
     public static void main(String[] args) {
-        String[] testArray = {"aabggfgb", "aabbb", "aabb"};
+        String[] testArray = {"aabggfgb", "aab", "aabb"};
         System.out.println(String.format("Prefix: %s", GetPrefix((testArray))));
     }
 
